@@ -1,1 +1,7 @@
 node_modules
+
+#Mongo DB credentials
+mongo-cluster-credentials
+
+#Environment File
+.env
